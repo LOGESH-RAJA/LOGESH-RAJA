@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate developer who loves building high-quality
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/logeshraja12)
-- 🌐 [Portfolio](https://logesh-raja.github.io/Logesh_Portfolio.github.io/) *(if you have one)*
+- 🌐 [Portfolio](https://logesh-raja.github.io/Logesh_Portfolio.github.io/) 
 
 Thanks for visiting! 😊
 
