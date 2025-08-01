@@ -34,12 +34,6 @@ Welcome to my GitHub! I'm a passionate developer who loves building high-quality
 - End-to-end product delivery: dev → test → deploy  
 - Real-time analytics, payments, and engagement flows  
 
----
-
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/logeshraja12)  
-- 🌐 [Portfolio](https://logesh-raja.github.io/Logesh_Portfolio.github.io/)  
 
 Thanks for visiting! 😊
 
