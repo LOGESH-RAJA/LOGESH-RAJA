@@ -1,43 +1,46 @@
-# 👋 Hi, I'm Logesh
+Got it! Here’s a revised, **MERN-focused version** of your GitHub README that emphasizes **mobile & web deployments**, **AI chatbot development**, and using **LangChain and LangGraph**:
 
-🚀 **Full Stack Mobile Developer | Flutter & Node.js Enthusiast**
+---
 
-Welcome to my GitHub! I'm a passionate developer who loves building high-quality, scalable mobile apps using **Flutter** on the frontend and **Node.js** on the backend. I enjoy turning ideas into real-world applications that are user-friendly, efficient, and production-ready.
+# 👋 Hi, I'm Logesh 🚀
+
+**Full Stack Developer | MERN, Flutter & AI Chatbot Enthusiast**
+
+Welcome to my GitHub! I specialize in building **scalable web and mobile applications** using the **MERN stack**, **Flutter**, and **AI-powered solutions**. I design and deploy **intelligent chatbots and AI agents** using **LangChain** and **LangGraph**, turning complex workflows into real-time, user-friendly applications.
 
 ---
 
 ### 🔧 Tech Stack
 
-- **Mobile:** Flutter, Dart, BLoC, GetX, GoRouter  
-- **Backend:** Node.js, Express, REST APIs, GraphQL  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **ORMs:** Sequelize, Mongoose  
-- **Firebase:** Push Notifications, Remote Config, Crashlytics, Analytics  
-- **Payments & Subscriptions:** Razorpay, RevenueCat  
-- **Dev Tools:** Git, CI/CD, Postman, VS Code  
-- **Deployment:** App Store & Play Store  
+* **Frontend:** React, TypeScript, Tailwind CSS, Flutter, GoRouter
+* **Backend:** Node.js, Express, REST APIs, GraphQL
+* **Databases:** MongoDB, MySQL, PostgreSQL
+* **ORMs:** Mongoose, Sequelize
+* **AI & Chatbots:** LangChain, LangGraph, GPT models, RAG pipelines, conversational agents
+* **Mobile & Web Deployments:** Play Store, App Store, Vercel, AWS, Docker
+* **Firebase:** Push Notifications, Remote Config, Crashlytics, Analytics
+* **Payments & Subscriptions:** Razorpay, RevenueCat
+* **Dev Tools:** Git, CI/CD, Postman, VS Code
 
 ---
 
 ### 📌 Projects
 
-- **[SICA](https://play.google.com/store/apps/details?id=com.tnindia.think42.sica&pcampaignid=web_share)** – Clean Architecture, BLoC, deep linking, Firebase services , Razorpay integration , Firebase Analytics
+* **[SICA](https://play.google.com/store/apps/details?id=com.tnindia.think42.sica&pcampaignid=web_share)** – Flutter mobile app with Clean Architecture, BLoC, Firebase services, Razorpay integration, deep linking, and analytics.
+* **AI Chatbots & Intelligent Agents** – Developed AI-powered chatbots for web and mobile using **MERN stack**, **LangChain**, and **LangGraph** with RAG-based knowledge retrieval and multi-step task automation.
 
-> 👉 Check out my pinned repositories for code and more details.
+
+> 👉 Explore my pinned repositories for source code, demos, and detailed implementations.
 
 ---
 
-### 📈 I Focus On
+### 📈 What I Focus On
 
-- Writing clean, scalable, testable code  
-- Building apps with performance and UX in mind  
-- End-to-end product delivery: dev → test → deploy  
-- Real-time analytics, payments, and engagement flows  
-
+* Building **scalable MERN stack applications** for web and mobile
+* Developing **AI chatbots and intelligent agents** with LangChain & LangGraph
+* Writing **clean, testable, and high-performance code**
+* End-to-end delivery: **development → testing → deployment**
+* Integrating **real-time analytics, AI workflows, and payment solutions**
 
 Thanks for visiting! 😊
 
-<!---
-LOGESH-RAJA/LOGESH-RAJA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
